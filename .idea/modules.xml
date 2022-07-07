@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraySizeVM/ArraySizeVM.iml" filepath="$PROJECT_DIR$/ArraySizeVM/ArraySizeVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BooleanExcercises/BooleanExcercises.iml" filepath="$PROJECT_DIR$/BooleanExcercises/BooleanExcercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/BuilderPattern/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculation/Calculation.iml" filepath="$PROJECT_DIR$/Calculation/Calculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chars/Chars.iml" filepath="$PROJECT_DIR$/Chars/Chars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorChaining/ConstructorChaining.iml" filepath="$PROJECT_DIR$/ConstructorChaining/ConstructorChaining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypesRange/DataTypesRange.iml" filepath="$PROJECT_DIR$/DataTypesRange/DataTypesRange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DependencyInjection/DependencyInjection.iml" filepath="$PROJECT_DIR$/DependencyInjection/DependencyInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Double/Double.iml" filepath="$PROJECT_DIR$/Double/Double.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalParameter/FinalParameter.iml" filepath="$PROJECT_DIR$/FinalParameter/FinalParameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For-Loop/For-Loop.iml" filepath="$PROJECT_DIR$/For-Loop/For-Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericTests/GenericTests.iml" filepath="$PROJECT_DIR$/GenericTests/GenericTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloUniverse/HelloUniverse.iml" filepath="$PROJECT_DIR$/HelloUniverse/HelloUniverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Training.iml" filepath="$PROJECT_DIR$/.idea/Java_Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocalDateTimeDemo/LocalDateTimeDemo.iml" filepath="$PROJECT_DIR$/LocalDateTimeDemo/LocalDateTimeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinMaxValue/MinMaxValue.iml" filepath="$PROJECT_DIR$/MinMaxValue/MinMaxValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prim/Prim.iml" filepath="$PROJECT_DIR$/Prim/Prim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queens/Queens.iml" filepath="$PROJECT_DIR$/Queens/Queens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScannerPractice/ScannerPractice.iml" filepath="$PROJECT_DIR$/ScannerPractice/ScannerPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Square/Square.iml" filepath="$PROJECT_DIR$/Square/Square.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamFilter/StreamFilter.iml" filepath="$PROJECT_DIR$/StreamFilter/StreamFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringComparison/StringComparison.iml" filepath="$PROJECT_DIR$/StringComparison/StringComparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringEscaper/StringEscaper.iml" filepath="$PROJECT_DIR$/StringEscaper/StringEscaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemperaturConverter/TemperaturConverter.iml" filepath="$PROJECT_DIR$/TemperaturConverter/TemperaturConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VarKeyword/VarKeyword.iml" filepath="$PROJECT_DIR$/VarKeyword/VarKeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoops/WhileLoops.iml" filepath="$PROJECT_DIR$/WhileLoops/WhileLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/X_Playground/X_Playground.iml" filepath="$PROJECT_DIR$/X_Playground/X_Playground.iml" />
+    </modules>
+  </component>
+</project>
