@@ -64,8 +64,6 @@ U
 %GenericTests/src/generictest/App.java,8\3\835bb45f7c99bc8d8dd1093c7b02e30eeb576ff8
 N
 LeapYear/src/leapyear/App.java,4\a\4a283115732b95c0ddc6eca795e8197ef8c9d2d5
-N
-Operators/src/logical/App.java,3\3\3302ebee3a6d2aaab918013f5d43f64a2645a8fd
 c
 3ScannerPractice/src/scanner_with_exception/App.java,2\c\2c75d66d372a823df3ab829c2bdc2f8abece5c79
 [
@@ -234,8 +232,6 @@ x
 Hz3_UnitTest_PracticeCourse/src/main/java/com/healthycoderapp/Gender.java,4\d\4da7a0eed993a6fae76a84271d5e5880a5a31584
 `
 0X_Playground/src/playground/GenericsExample.java,b\c\bc6ef2f5b3b700eb51fad0276f2f7d545365f047
-q
-Az0_Java_Tutorial/src/main/java/java_tutorial/GenericsExample.java,3\4\345c1a37be8892cb11d24bfac769bb42a477a55b
 …
 Uz1_Jetbrains_Excercises/src/main/java/relational_operators/GivenNumbersDifferent.java,2\f\2fd7405ba08e74eb84bf88fbc3d487c74d0ab5ee
 „
@@ -306,8 +302,6 @@ T
 $Calculation/src/arithmetic/Main.java,c\7\c73ccbaa2f3eec9cb3cd441a8b17d6caf5807e7b
 M
 Collections/src/com/Main.java,f\0\f060ee2157e74bd8e23bf7889a22d0bf768c91cd
-^
-.Comparison/src/main/java/instance_of/Main.java,3\4\345bf04ab55f254de911f93d959eb6f92df5f28a
 f
 6ConstructorChaining/src/constructer_chaining/Main.java,5\5\556cce3eb3eac5313336ca725b7795343e97fecf
 P
@@ -520,3 +514,21 @@ Pz1_Jetbrains_Excercises/src/main/java/projects/coffeemachine/CoffeeMachine2.jav
 Pz1_Jetbrains_Excercises/src/main/java/projects/coffeemachine/CoffeeMachine3.java,4\a\4aedfa77a477a353ae50837c19c7c4703ac83c5a
 j
 :z0_Java_Tutorial/src/main/java/java_tutorial/Literals.java,e\6\e6921e55f3f81c871ef4a31bd22606ad78e7c8f7
+m
+=z0_Java_Tutorial/src/main/java/java_tutorial/jdbc/mondial.sql,6\a\6aa13a523d33f1b7302aa514125eb977386b9cce
+r
+Bz0_Java_Tutorial/src/main/java/java_tutorial/util/DatePrinter.java,f\7\f76aabee502586864d88e07257ac178c3ef72ab2
+€
+Pz0_Java_Tutorial/src/main/java/java_tutorial/de/tutego/app/DatePrinterUser1.java,d\2\d24131d34afe482ea5fcd8f2a46cef3dbe160de8
+s
+Cz0_Java_Tutorial/src/main/java/java_tutorial/ImportDeclaration.java,3\1\315dc257c51e7e3b91c8f83eb9306eb143cd721a
+k
+;z0_Java_Tutorial/src/main/java/java_tutorial/util/Line.java,3\0\3013125c4a3df1bbbb674909d293b09f91460e76
+„
+Tz0_Java_Tutorial/src/main/java/java_tutorial/de/tutego/app/MyPackageDeclaration.java,f\c\fc9e854e36d47181983495d2f93c1158acd866ba
+H
+z0_Java_Tutorial/pom.xml,a\9\a9c60de0bbe0b1c9366d8d3a41f0ed031d692c41
+u
+Ez1_Jetbrains_Excercises/src/main/java/while_do_while/TheSequence.java,0\5\05ca637b8ba482988dd35b103e12e968e9b871a1
+‚
+Rz1_Jetbrains_Excercises/src/main/java/types_and_variables/TypeCastingRequired.java,3\e\3e555dc5de0d1a321a629b25f6eb9c495fd8e807
