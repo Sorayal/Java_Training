@@ -652,3 +652,11 @@ x
 Hz0_Java_Tutorial/src/main/java/java_tutorial/generics/TypUmwandlung.java,6\1\61a19a9a9d13c0a2819525d64a77f9ad7774e49c
 k
 ;z0_Java_Tutorial/src/main/java/java_tutorial/Wildcards.java,9\c\9cf6de8b5af9f0a53929378406d6f35463d056cf
+w
+Gz0_Java_Tutorial/src/main/java/java_tutorial/BoundedTypeParameters.java,6\f\6fac04e97066a85a439b1d593f44ad6c1006a14f
+N
+z4_Excercise_Unittests/pom.xml,7\8\7898e9f7ffed1d5301fe952c5fbd04631ff3eb30
+€
+Pz1_Jetbrains_Excercises/src/main/java/switch_statements/FloorSpaceOfTheRoom.java,9\0\9068a6e76b6e92d050dd46b7ec1cc426bfc37251
+x
+Hz1_Jetbrains_Excercises/src/main/java/switch_statements/HarryPotter.java,2\1\21481bcc39edd5d27ce9bb29e2877a85b71e7140
