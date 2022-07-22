@@ -660,3 +660,11 @@ N
 Pz1_Jetbrains_Excercises/src/main/java/switch_statements/FloorSpaceOfTheRoom.java,9\0\9068a6e76b6e92d050dd46b7ec1cc426bfc37251
 x
 Hz1_Jetbrains_Excercises/src/main/java/switch_statements/HarryPotter.java,2\1\21481bcc39edd5d27ce9bb29e2877a85b71e7140
+t
+Dz0_Java_Tutorial/src/main/java/java_tutorial/quote/QuotePrinter.java,6\e\6e277f84f50dcf463a4e1e72792b9a69dfd97fac
+m
+=z0_Java_Tutorial/src/main/java/java_tutorial/quote/Quote.java,1\7\17e8a6f3bdcb497c360a4d450e6c601e790b282c
+x
+Hz1_Jetbrains_Excercises/src/main/java/methods/CalculatingFactorials.java,0\4\04baaad51bdfc8de8c6ed39778081a32e0688aa2
+<
+JDBC/pom.xml,a\6\a6ccabdbba8d996e997f2ce56d8d576d4871d428
