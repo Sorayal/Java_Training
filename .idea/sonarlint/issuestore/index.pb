@@ -668,3 +668,11 @@ x
 Hz1_Jetbrains_Excercises/src/main/java/methods/CalculatingFactorials.java,0\4\04baaad51bdfc8de8c6ed39778081a32e0688aa2
 <
 JDBC/pom.xml,a\6\a6ccabdbba8d996e997f2ce56d8d576d4871d428
+}
+Mz0_Java_Tutorial/src/main/java/java_tutorial/PrivatePublicPackageVisible.java,a\1\a19bf91295b8d6fb8881410fd0f6abefabc98a9c
+‡
+Wz1_Jetbrains_Excercises/src/main/java/methods/calculator/CalculatorWithFourMethods.java,3\9\3971ba564a99244793e5241ac80da4d4935d56bc
+v
+Fz1_Jetbrains_Excercises/src/main/java/methods/GetNumberOfMaxParam.java,6\5\65cdb1fa8dda22428a553eb4684c1e8965a0075a
+~
+Nz1_Jetbrains_Excercises/src/main/java/methods/calculator/SimpleCalculator.java,f\9\f956bb53f4a661b3ea35c411357276e8cd304fc5
