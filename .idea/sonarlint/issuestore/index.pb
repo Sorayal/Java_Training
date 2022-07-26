@@ -508,8 +508,6 @@ k
 ;z0_Java_Tutorial/src/main/java/java_tutorial/WhileLoop.java,2\1\2157e5db78bc17bd98a9e9c587a92dbc9c443f9e
 €
 Pz1_Jetbrains_Excercises/src/main/java/projects/coffeemachine/CoffeeMachine2.java,8\5\858b4a20b347aca3b1ddbe6652f5c59b3c25675d
-€
-Pz1_Jetbrains_Excercises/src/main/java/projects/coffeemachine/CoffeeMachine3.java,4\a\4aedfa77a477a353ae50837c19c7c4703ac83c5a
 j
 :z0_Java_Tutorial/src/main/java/java_tutorial/Literals.java,e\6\e6921e55f3f81c871ef4a31bd22606ad78e7c8f7
 m
@@ -686,9 +684,17 @@ M
 z5_Hibernate_Training/pom.xml,5\6\56e58058642d6bf85af2be281535ad82fc25a46d
 U
 %JDBC/src/main/java/jdbc_demo/App.java,a\a\aa0d439b7433cee0c112a1578031b193f54cd052
-k
-;z1_Jetbrains_Excercises/src/main/java/arrays/CharArray.java,c\4\c404cc0b5c8cdbfee15230746dfa7346e59e49ba
 p
 @z1_Jetbrains_Excercises/src/main/java/arrays/CreatingArrays.java,c\3\c3c3f2663b0ec38b8cbbfa5898aea40fa776e058
 r
 Bz1_Jetbrains_Excercises/src/main/java/arrays/MysteryOfAnArray.java,6\b\6b1a67a9f7783e1bd149fd9eff9d7cd43bc4c4f1
+k
+;z1_Jetbrains_Excercises/src/main/java/arrays/ArrayFill.java,0\3\03a4ce6b11d04337b14d24cff092b128e6754216
+v
+Fz1_Jetbrains_Excercises/src/main/java/methods/SumOfNumbersInRange.java,7\c\7c813153a2d2079caf21f3adc033e2260e6035d1
+k
+;z1_Jetbrains_Excercises/src/main/java/methods/Division.java,a\7\a72b5be425816fdf6e6cfc09553cc54fe95d164c
+‚
+Rz1_Jetbrains_Excercises/src/main/java/while_do_while/LargestElementOfSequence.java,e\e\ee4dfefd0154aabf2984f38d4744e594215e39bd
+s
+Cz1_Jetbrains_Excercises/src/main/java/methods/TheSignOfANumber.java,8\f\8f2c956bce4f892411fcfd68490649b098895344

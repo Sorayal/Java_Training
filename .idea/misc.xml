@@ -27,6 +27,8 @@
         <option value="$PROJECT_DIR$/ArrayList/pom.xml" />
         <option value="$PROJECT_DIR$/Stream/pom.xml" />
         <option value="$PROJECT_DIR$/JDBC/pom.xml" />
+        <option value="$PROJECT_DIR$/Swapping/pom.xml" />
+        <option value="$PROJECT_DIR$/VarArgs/pom.xml" />
       </list>
     </option>
   </component>
