@@ -67,6 +67,8 @@ out/
 *.iml
 *.ipr
 *.iws
+/.idea/
+/.idea/sonarlint/
 
 ##############################
 ## Eclipse
@@ -106,3 +108,5 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+
+

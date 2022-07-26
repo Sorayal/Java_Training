@@ -21,9 +21,6 @@ M
 GenericTests/GenericTests.iml,a\2\a2f32cdc1f6cb20de13892061c4f65adb3810e7a
 M
 StreamFilter/StreamFilter.iml,2\4\245bc749282c548c6ae87bd06f6e09f7093b6444
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 e
 5z0_Java_Tutorial/src/main/java/java_tutorial/test.txt,f\6\f6bd736e45cd43987a7431a3cddd86bfd60a29d3
 „
