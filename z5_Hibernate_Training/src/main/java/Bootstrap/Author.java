@@ -6,13 +6,13 @@ import org.hibernate.annotations.GenericGenerator;
 import java.util.UUID;
 
 @Entity
-@Table(name="author")
+@Table(name = "author")
 public class Author {
 
     @Id
     @GeneratedValue(generator = "uuid-gen")
-    @GenericGenerator(name="uuid-gen", strategy="uuid2")
-    @Column(name = "id", length=16, updatable = false, nullable = false)
+    @GenericGenerator(name = "uuid-gen", strategy = "uuid2")
+    @Column(name = "id", length = 16, updatable = false, nullable = false)
     private UUID Id;
 
     @Column(name = "first_name")
